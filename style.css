@@ -1,0 +1,43 @@
+.index1{
+    text-align: center;
+    color: rgb(45, 61, 74);
+}
+.border1{
+    text-align: center;
+    background-color: rgb(62, 81, 96);
+    width: 500px;
+    margin: 50px auto;
+
+}
+.border2{
+    text-align: center;
+     background-color: rgb(62, 81, 96);
+    width: 500px;
+    margin: 50px auto;
+    
+}
+.border3{
+      text-align: center;
+     background-color: rgb(62, 81, 96);
+    width: 500px;
+    margin: 50px auto;
+    
+}
+img{
+    display: block;
+    margin: 10px auto;
+    width: 50%;
+}
+.outerborder1{
+     text-align: center;
+     background-color: rgb(220, 228, 233);
+    width: 600px;
+    margin: 100px auto;
+
+}
+.mink{
+    text-align: center;
+}
+.blue{
+    text-align: center;
+}
